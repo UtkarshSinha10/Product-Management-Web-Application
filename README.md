@@ -1,2 +1,3 @@
 # Product Management Web Application
- SpringBoot Project on one to many mapping
+ Project includes one to many mapping of customers and products. Different  API calls for adding, retrieving, and updating information of customers and their purchasing in two different databases.
+#Java  #SpringBoot  #MySQL(JPA Queries and JOINS)  #APIs
