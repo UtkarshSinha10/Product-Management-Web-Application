@@ -1,6 +1,6 @@
-<h2># Product Management Web Application</h2>
+<h2>Product Management Web Application</h2>
 <p> Project includes one to many mapping of customers and products. Different  API calls for adding, retrieving, and updating information of customers and their purchasing in two different databases.</p>
-<h2>APIs defined in project</h2>
+<h3>APIs defined in project</h3>
 <p>localhost:8080/findAllOrders -> GET Method</p>
 <p>localhost:8080/getInfo -> GET Method</p>
 <p>localhost:8080/placeOrder -> POST Mehod with Request JSON Body</p>
