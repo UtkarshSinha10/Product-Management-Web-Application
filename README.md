@@ -1,7 +1,10 @@
-# Product Management Web Application
- Project includes one to many mapping of customers and products. Different  API calls for adding, retrieving, and updating information of customers and their purchasing in two different databases.
-#Java  #SpringBoot  #MySQL(JPA Queries and JOINS)  #APIs
-
+<h2># Product Management Web Application</h2>
+<p> Project includes one to many mapping of customers and products. Different  API calls for adding, retrieving, and updating information of customers and their purchasing in two different databases.</p>
+<h2>APIs defined in project</h2>
+<p>localhost:8080/findAllOrders -> GET Method</p>
+<p>localhost:8080/getInfo -> GET Method</p>
+<p>localhost:8080/placeOrder -> POST Mehod with Request JSON Body</p>
+<p></p>
 <p aign="center">
  <p>Project Architecture</p><img alt="Project Architecture" src="assets/customerproduct.png" width="700" margin="10px"/>
  <p>Database with their tables</p><img alt="Poject Screenshots" src="assets/1.png" width="700" margin="10px"/>
@@ -23,7 +26,6 @@
  <img alt="Poject Screenshots" src="assets/16.png" width="700" margin="10px"/>
  <img alt="Poject Screenshots" src="assets/17.png" width="700" margin="10px"/>
  <img alt="Poject Screenshots" src="assets/18.png" width="700" margin="10px"/>
- 
  <p>API call for  localhost:8080/getInfo, returning array of name and product for each product</p>
  <img alt="Poject Screenshots" src="assets/19.png" width="700" margin="10px"/>
  <img alt="Poject Screenshots" src="assets/20.png" width="700" margin="10px"/>
