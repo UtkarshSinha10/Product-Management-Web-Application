@@ -3,5 +3,5 @@
 #Java  #SpringBoot  #MySQL(JPA Queries and JOINS)  #APIs
 
 <p aign="center">
- <img src="assets/customerproduct" width="350"/>
+ <img src="assets/customerproduct.png" width="350"/>
  </p>
